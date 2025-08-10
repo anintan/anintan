@@ -4,6 +4,5 @@ i’m all about exploring different sounds🎧, vibes🌆, and ideas from downto
 still learning📚, building🛠️, and figuring out my own way in tech and life.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anint4n) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/cartliz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCwkGULcY1yHqLZ4BMk3AreQ) 
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anint4n) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/cartliz)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anintan&show_icons=true&theme=transparent)
