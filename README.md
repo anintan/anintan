@@ -10,3 +10,5 @@ still learning, building, and figuring out my own way in tech and life.
 💬 Hit me up about code, music, or whatever
 
 📫 Find me on Instagram: [@anint4n]
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anintan&show_icons=true&theme=transparent)
