@@ -5,4 +5,5 @@ still learning📚, building🛠️, and figuring out my own way in tech and lif
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anint4n) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/cartliz)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anintan&show_icons=true&theme=transparent)
